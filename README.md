@@ -1,10 +1,10 @@
-# 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
+##  3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
 
-**AIM:**
+## AIM:
 
 To determine the voltage in the circuit using nodal analysis both theoretically and practically for a given DC circuit.
 
-**APPARATUS REQUIRED:**
+## APPARATUS REQUIRED:
 
 1.	Regulated Power supply ( RPS)	(0-30 V)	1
 
@@ -14,15 +14,18 @@ To determine the voltage in the circuit using nodal analysis both theoretically 
 
 4.	Bread board	---	1
 
-**THEORY:**
+## THEORY:
 
 In electric circuits analysis, nodal analysis, node-voltage analysis, or the branch current method is a method of determining the voltage (potential difference) between "nodes" (points where elements or branches connect) in an electrical circuit in terms of the branch currents.
 
-**Circuit diagram**
+## CIRCUIT DIAGRAM:
+<img width="638" height="548" alt="image" src="https://github.com/user-attachments/assets/ed4c413e-c19b-4caf-96b8-cb38ce3999be" />
 
+## TABULAR COLUMN AND CALCULATION:
+ <img width="538" height="695" alt="image" src="https://github.com/user-attachments/assets/cee80648-0406-4db7-bfac-e768d68ad64c" />
+<img width="518" height="701" alt="image" src="https://github.com/user-attachments/assets/9c606773-cf6a-462c-bc4e-b180d5ad810e" />
 
- 
-**PROCEDURE:**
+## PROCEDURE:
 
 1.	Give connections as per the circuit diagram.
 
@@ -36,14 +39,16 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
-**RESULT:**
+## MARKS SPLI UP:
+<img width="530" height="561" alt="image" src="https://github.com/user-attachments/assets/3402e2d7-1121-4602-9528-0976dc66c35c" />
+
+## RESULT:
 
 Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for 	V supply are:
 
-a)	The voltage V1 is	V.
+a)	The voltage V1 is	0.638V.
 
-b)	The voltage V2 is	V.
+b)	The voltage V2 is	0.186V.
 
-c)	The voltage V3 is	V.
-
+c)	The voltage V3 is	0.416V.
 
